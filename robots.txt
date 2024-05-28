@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://daih.eu/sitemap.xml
+Sitemap: https://daih-univr.github.io/sitemap.xml
