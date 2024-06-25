@@ -11,18 +11,18 @@ layout: default
           {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30}}px, (min-width: 576px)
       30vw, 95vw{% endcapture %}
           {%
-            include figure.liquid loading="eager" path=profile_image_path sizes=sizes alt=site.title
+            include figure.liquid loading="eager" path=profile_image_path sizes=sizes alt=site.main_title
             cache_bust=true
           %}
 
     </div>
     {% endif %}
     <h1 class="post-title">
-      {% if site.title == 'blank' %}
+      {% if site.main_title == 'blank' %}
         <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
         {{ site.last_name }}
       {% else %}
-        {{ site.title }}
+        {{ site.main_title }}
       {% endif %}
     </h1>
     <p class="desc">{{ page.subtitle }}</p>
