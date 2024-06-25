@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Digital Arena for Inclusive Humanities
+title: "Digital Arena for Inclusive Humanities (DAIH)"
 # first_name: Marco
 # middle_name: R.
 # last_name: Rospocher
@@ -13,7 +13,7 @@ footer_text: >
   <a href="https://www.dlls.univr.it/"><img src="/assets/img/logo-univr-dills-en.png" height="100px" alt="Logos of the University of Verona and Department of Foreign Languages and Literatures"/></a>
   <a href="https://www.anvur.it/en/activities/departments/"><img src="/assets/img/Eccellenza_MUR_Colore_red_150h.png" height="100px" alt="Logos of the University of Verona Department of Excellence 2023-2027"/></a>
   <a href="https://www.dlls.univr.it/"><img src="/assets/img/LogoInclusiveHumanities.png" height="100px" alt="Logos of the Inclusive Humanities project"/></a>
-keywords: artificial intelligence, computer science, digital humanities, inclusion, diversity, equity, computational methods, digital technologies, natural language processing, literary studies, linguistic studies
+keywords: artificial intelligence, computer science, digital humanities, inclusion, diversity, equity, computational methods, digital technologies, natural language processing, literary studies, linguistic studies, digital scholarly edition
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.ico # ⚛️ the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
