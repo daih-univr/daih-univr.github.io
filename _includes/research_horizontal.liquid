@@ -4,7 +4,7 @@
       <div class="row g-0">
         {% if research.img %}
           <div class="card-img col-md-6">
-            {% include figure.liquid loading="eager" path=research.img sizes="(min-width: 768px) 156px, 50vw" alt="research thumbnail" %}
+            {% include figure.liquid loading="eager" path=research.img sizes="(min-width: 768px) 156px, 50vw" alt=research.imgalt %}
           </div>
         {% endif %}
         <div class="{% if research.img %}col-md-6{% else %}col-md-12{% endif %}">

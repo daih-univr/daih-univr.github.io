@@ -2,6 +2,7 @@
 layout: page
 title: Computational Literary Studies and Inclusion
 img: assets/img/research/cls.jpg
+imgalt: an image showing an old style library with many books
 importance: 1
 category: #work
 related_publications: true

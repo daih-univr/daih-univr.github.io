@@ -3,6 +3,7 @@ layout: page
 title: Accessibility and Inclusion in Digital Scholarly Editing
 #description: Digital Technologies for Accessibility
 img: assets/img/research/dse.jpg
+imgalt: an image showing some structured markup of a text
 importance: 1
 category: #work
 related_publications: true

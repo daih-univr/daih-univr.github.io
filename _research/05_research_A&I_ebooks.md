@@ -2,6 +2,7 @@
 layout: page
 title: Inclusive and accessible eBooks
 img: assets/img/research/ebooks.jpg
+imgalt: an image showing an a robot hand indicating some text on a display
 importance: 1
 category: #work
 related_publications: true

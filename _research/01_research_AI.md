@@ -4,6 +4,7 @@ layout: page
 title: Artificial Intelligence for Inclusive and Digital Humanities
 #description: Artificial Intelligence for Inclusive and Digital Humanities
 img: assets/img/research/ai.jpg
+imgalt: an image showing circuits and the human brain
 importance: 1
 category: #work
 related_publications: true

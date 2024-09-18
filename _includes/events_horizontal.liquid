@@ -4,7 +4,7 @@
       <div class="row g-0">
         {% if event.img %}
           <div class="card-img col-md-6">
-            {% include figure.liquid loading="eager" path=event.img sizes="(min-width: 768px) 156px, 50vw" alt="event thumbnail" %}
+            {% include figure.liquid loading="eager" path=event.img sizes="(min-width: 768px) 156px, 50vw" alt=event.imgalt %}
           </div>
         {% endif %}
         <div class="{% if event.img %}col-md-6{% else %}col-md-12{% endif %}">
