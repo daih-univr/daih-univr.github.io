@@ -1,7 +1,7 @@
 ---
 layout: page
-title: collaborations
-permalink: /collaborations/
+title: network
+permalink: /network/
 description: #A growing collection of your cool collaborations.
 nav: true
 nav_order: 4
