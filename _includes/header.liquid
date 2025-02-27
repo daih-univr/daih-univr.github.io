@@ -4,7 +4,7 @@
     <div class="container">
       <div style="padding-top: 10px; width: 125px">
         <a href="{{ '/' | relative_url }}" class="{% if page.title == 'Home' %}active{% endif %}">
-        {% assign logo_image_path = site.logo | prepend: './assets/img/' %}
+        {% assign logo_image_path = site.logo | prepend: '/assets/img/' %}
         {% capture sizes %}(min-width: {{site.max_width}}) 125px, (min-width: 576px) 125px, 125px{% endcapture %}
           {%
             include figure.liquid loading="eager" path=logo_image_path sizes=sizes alt=site.title cache_bust=true
