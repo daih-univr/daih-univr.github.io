@@ -6,7 +6,7 @@ layout: default
     
     {% if site.logo %}
     <div class="container80">
-          {% assign profile_image_path = site.logo | prepend: 'assets/img/' %}
+          {% assign profile_image_path = site.logo | prepend: './assets/img/' %}
           {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
           {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30}}px, (min-width: 576px)
       30vw, 95vw{% endcapture %}
@@ -32,7 +32,7 @@ layout: default
     {% if page.profile %}
       <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
         {% if site.logo %}
-          {% assign profile_image_path = site.logo | prepend: 'assets/img/' %}
+          {% assign profile_image_path = site.logo | prepend: './assets/img/' %}
           {% if page.profile.image_circular %}
             {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
           {% else %}
