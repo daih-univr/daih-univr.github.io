@@ -5,7 +5,7 @@ permalink: /events/
 description: #A growing collection of your cool projects.
 nav: true
 nav_order: 5
-display_categories: [conferences]
+display_categories: [conferences, seminars]
 horizontal: false
 ---
 
