@@ -7,22 +7,25 @@ nav: true
 nav_rank: 2
 ---
 
-{% assign groups = site.members | sort: "group_rank" | map: "group" | uniq %}
-{% for group in groups %}
-<!-- ## {{ group }} -->
-<h2 id="{{ group }}" class="group">{{ group }}</h2>
+{% assign data = site.data.members %}
 
-
-    {% assign members = site.members | sort: "profile.surname" | where: "group", group %}
+{% if data %}
+  {% for group_name in data %}
+    {% assign members = group_name[1] %}
+<h2 id="{{ group_name[0] }}" class="group">{{ group_name[0] }}</h2>
 <ul>
-    {% for member in members %}
+    {% assign sorted_members = members | sort: "surname" %}
+    {% for member in sorted_members %}
     <li>
-        {% if member.profile.website %}<a href="{{ member.profile.website }}">{% endif %}
-        {{ member.profile.name }} {{ member.profile.surname }}
-        {% if member.profile.website %}</a>{% endif %}
-        <!-- {% if member.profile.position %}<br/>{{ member.profile.position }}{% endif %} -->
-        {% if member.profile.affiliation %}<br/>{{ member.profile.affiliation }}{% endif %}
+        {% if member.website %}<a href="{{ member.website }}">{% endif %}
+        {{ member.name }} {{ member.surname }}
+        {% if member.website %}</a>{% endif %} {% if member.period %}({{ member.period }}){% endif %}
+        <!-- {% if member.position %}<br/>{{ member.position }}{% endif %} -->
+        {% if member.affiliation %}<br/>{{ member.affiliation }}{% endif %}
     </li>
     {% endfor %}
 </ul>
-{% endfor %}
+  {% endfor %}
+{% else %}
+  <p>No member data found.</p>
+{% endif %}

@@ -175,9 +175,6 @@ collections:
       layout: post
     output: false
     permalink: /news/:path/
-  members:
-    output: true
-    permalink: /members/:path/
   events:
     output: true
     permalink: /events/:path/  

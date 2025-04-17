@@ -1,4 +1,4 @@
-# daih.eh
+# daih.eu
 
 This is the website of the Digital Arena for Inclusive Humanities at the University of Verona, Italy. It is using Jekyll, hosted on GitHub, and was originally based on the [al-folio theme](https://github.com/alshedivat/al-folio).
 
