@@ -106,19 +106,13 @@ members:
   website: 'https://www.dlls.univr.it/?ent=persona&id=2972'
 
 
-- affiliation: Department of Foreign Languages and Literatures, University of Verona
-  name: Fabrizio
-  surname: Chiarello
-  website: 'https://www.dlls.univr.it/?ent=persona&id=52505'
-
-
 - affiliation: IT and Communications, University of Verona
   name: Olga Lucia
   surname: Forlani
   website: 'https://www.univr.it/en/contacts/olga.forlani'
 
 
-- affiliation: Department of Foreign Languages and Literatures, University of Verona
+- affiliation: Department of Information Engineering and Computer Science, University of Trento
   name: Marco
   surname: Bombieri
   website: 'https://www.dlls.univr.it/?ent=persona&id=47188'
@@ -159,7 +153,7 @@ members:
   surname: Artoni
   website: 'https://www.dlls.univr.it/?ent=persona&id=9036'
 
-students and interns:
+students (theses and interns):
 - period: 2025
   name: Letizia
   surname: Zenatti
@@ -167,10 +161,6 @@ students and interns:
 - period: 2025
   name: Martina
   surname: Baú
-
-- period: 2025
-  name: Martina
-  surname: Furlan
 
 - period: 2025
   name: Alessandra
@@ -187,3 +177,7 @@ students and interns:
 - period: 2025
   name: Stefano
   surname: Dall'Olmo
+
+- period: 2025
+  name: Sara
+  surname: Grolli  
