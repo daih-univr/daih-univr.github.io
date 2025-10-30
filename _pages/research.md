@@ -9,6 +9,8 @@ display_categories: #[work, fun]
 horizontal: false
 ---
 
+**In open science we trust!** As part of this commitment, you can access many of the materials developed through our research—including data, code, and analyses—directly on our [GitHub account](https://github.com/daih-univr/).
+
 <!-- pages/research.md -->
 <div class="events">
 {% if site.enable_research_categories and page.display_categories %}
