@@ -2,3 +2,72 @@ journals:
   - name: DiLLS Journals
     description: Open Access Scientific Journals of the Department of Foreign Languages and Literatures of the University of Verona
     website: "https://riviste.dlls.univr.it/"
+
+corpora:
+  - name: DIACOM-es
+    description: El corpus DIACOM-es es un corpus diacrónico especializado que reúne textos de ámbito comercial en lengua española.
+    website: "https://dh.dlls.univr.it/corpora/diacomes/"
+
+  - name: DIACOM-fr
+    description: Le corpus DIACOM-fr est un corpus spécialisé de type diachronique qui réunit une documentation en langue française consacrée au domaine du commerce.
+    website: "https://dh.dlls.univr.it/corpora/diacomfr/"
+
+  - name: OccOr-es
+    description: El corpus OccOr-es es un corpus diacrónico que reúne textos redactados o publicados en lengua española entre 1850 y 1939 sobre temas relacionados con Asia oriental y, especialmente, China.
+    website: "https://dh.dlls.univr.it/corpora/occores/"
+
+  - name: OccOr-fr
+    description: Le corpus OccOr-fr réunit une documentation en langue française consacrée aux relations entre les pays occidentaux, notamment la France, et l'Orient.
+    website: "https://dh.dlls.univr.it/corpora/occorfr/"
+
+terminological networks:
+  - name: Réseau terminologique DIACOM-fr
+    description: DIACOM-fr est une base de données terminologiques synchronique et diachronique à la fois, consacrée à la terminologie française du commerce.
+    website: "https://dh.dlls.univr.it/corpora/diacomfr-reseau/"
+
+  - name: ReTeCE
+    description: "Red Terminológica del Comercio en Español: Esferas temporales y espaciales"
+    website: "https://dh.dlls.univr.it/corpora/retece/"
+
+digital editions:
+  - name: Digital Alexanderlied
+    description: Digital scholarly edition (DSE) of the whole manuscript tradition of the so-called Alexanderlied.
+    website: "https://dh.dlls.univr.it/dse/dal/"
+
+bibliographic databases:
+  - name: "Snorra Edda: A Collaborative Bibliography (SNECB)"
+    description: Online crowdsourcing database which aims at collecting and searching all the primary and secondary sources on Snorri’s Edda (SnE) since the publication of its editio princeps (1655).
+    website: "https://dh.dlls.univr.it/bib-arc/snecb/index.html"
+
+  - name: Classical and Early Modern Paradoxes in England (CEMP)
+    description: Open-access digital archive of texts pertaining to the genres of the paradox, of the paradoxical fiction, and of the problem, which were published in England in the sixteenth and seventeenth century.
+    website: "https://dh.dlls.univr.it/bib-arc/cemp/index.html"
+
+  - name: Gazette des Femmes
+    description: Gazette des femmes des années 1841-1847
+    website: "https://dh.dlls.univr.it/bib-arc/gazette-des-femmes/index.html"
+
+  - name: Amadís Ludens
+    description: Clasificación de motivos basada en el amplio modelo taxonómico propuesto por el Progetto Mambrino (Università di Verona) y centrada específicamente en el conjunto de motivos vinculados con el contexto de la fiesta cortesana.
+    website: "https://dh.dlls.univr.it/bib-arc/amadis-ludens/index.html"
+
+websites and blogs:
+  - name: "14 x 14 – Il Grand Tour dei Conti del Nord"
+    description: "Quattordici mesi e quattordici paesi: un Grand Tour all’insegna della musica e dello spettacolo."
+    website: "https://sites.dlls.univr.it/14x14/"
+
+  - name: "AlpiLink: lingue alpine in contatto"
+    description: Progetto per la documentazione, analisi e promozione dei dialetti e delle lingue minoritarie germaniche, romanze e slave dell’arco alpino italiano.
+    website: "https://alpilink.it/"
+
+  - name: BIdialogyca
+    description: Biblioteca digital de los diálogos españoles traducidos al italiano.
+    website: "https://bidialogyca.dlls.univr.it/"
+
+  - name: "GIAM"
+    description: "Towards accessibility and inclusion in language teaching: an effective, applicable teaching model."
+    website: "https://sites.dlls.univr.it/giam/"
+
+  - name: SLiV@ – Slavistics in Verona
+    description: Group of Slavists collaborating on a range of initiatives in the field of Slavic Studies.
+    website: "https://sites.dlls.univr.it/sliva/"

@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-Over the years, we have supported the development of various digital platforms for the Department of Foreign Languages and Literatures at the University of Verona, and we continue to oversee their maintenance. 
+Over the years, we have supported the development of various digital platforms for the Department of Foreign Languages and Literatures at the University of Verona, and we oversee their operational maintenance. 
 
 {% assign data = site.data.platforms %}
 
