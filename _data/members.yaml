@@ -174,10 +174,22 @@ students (theses and interns):
   name: Anna
   surname: Romano
 
-- period: 2025
+- period: 2025-2026
   name: Stefano
   surname: Dall'Olmo
 
 - period: 2025
   name: Sara
   surname: Grolli  
+
+- period: 2025
+  name: Elisa
+  surname: Olivato
+
+- period: 2025
+  name: Meriem
+  surname: Sardou
+
+- period: 2025-2026
+  name: Sara
+  surname: Passigato

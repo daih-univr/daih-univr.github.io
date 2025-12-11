@@ -1,13 +1,15 @@
 ---
 layout: page
-title: events
+title: initiatives
 permalink: /events/
 description: #A growing collection of your cool projects.
 nav: true
-nav_order: 5
-display_categories: [conferences, seminars]
+nav_order: 4
+display_categories: [conferences, workshops, seminars, teaching & training]
 horizontal: false
 ---
+
+DAIH contributes to the organization of a wide range of initiatives, including conferences, workshops, seminars, public events, and training activities.
 
 <!-- pages/events.md -->
 <div class="events">

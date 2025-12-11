@@ -4,7 +4,7 @@ permalink: /people/
 title: people
 #description: members of DAIH
 nav: true
-nav_rank: 2
+nav_order: 2
 ---
 
 {% assign data = site.data.members %}
