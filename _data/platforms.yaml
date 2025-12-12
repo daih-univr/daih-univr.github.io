@@ -29,12 +29,12 @@ terminological networks:
     description: "Red Terminológica del Comercio en Español: Esferas temporales y espaciales"
     website: "https://dh.dlls.univr.it/corpora/retece/"
 
-digital editions:
+digital scholarly editions:
   - name: Digital Alexanderlied
     description: Digital scholarly edition (DSE) of the whole manuscript tradition of the so-called Alexanderlied.
     website: "https://dh.dlls.univr.it/dse/dal/"
 
-bibliographic databases:
+digital archives:
   - name: "Snorra Edda: A Collaborative Bibliography (SNECB)"
     description: Online crowdsourcing database which aims at collecting and searching all the primary and secondary sources on Snorri’s Edda (SnE) since the publication of its editio princeps (1655).
     website: "https://dh.dlls.univr.it/bib-arc/snecb/index.html"
