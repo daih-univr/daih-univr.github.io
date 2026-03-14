@@ -16,7 +16,7 @@ The **Digital Arena for Inclusive Humanities (DAIH)** is an interdisciplinary re
 
 Established within the framework of the [University Departments of Excellence 2023-2027](https://www.mur.gov.it/it/aree-tematiche/universita/programmazione-e-finanziamenti/dipartimenti-di-eccellenza) funding scheme by the Italian Ministry for Universities and Research (MUR), the center serves as a catalyst for interdisciplinary collaboration, with research goals at the intersection of computer science, particularly **artificial intelligence**, and the humanities, specifically **linguistic** and **literary studies**. DAIH aims to foster and **promote inclusion** in research, infrastructure, training, and dissemination of scientific content to overcome disparities, inequalities, and discriminations in the modern society.
 
-**More on DAIH:** listen to our interview on the podcast *Inclusioni* (EP 24: "[Dentro il DAIH: AI, inclusione e Digital Humanities](https://www.spreaker.com/podcast/inclusioni--6119344)" - only in Italian).
+**More on DAIH:** listen to our interview on the podcast *Inclusioni* (EP 24: "[Dentro il DAIH: AI, inclusione e Digital Humanities](https://open.spotify.com/episode/3TvGSUUtSLurrc8i8lGUhv)" - only in Italian).
 
 <p style="text-align:center; margin: 1rem 0;">
   <a href="https://open.spotify.com/episode/3TvGSUUtSLurrc8i8lGUhv">
