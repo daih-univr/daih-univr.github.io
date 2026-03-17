@@ -9,7 +9,7 @@ display_categories: [call for papers, conferences, workshops, seminars, teaching
 horizontal: false
 ---
 
-DAIH contributes to the organization of a wide range of initiatives, including conferences, workshops, seminars, public events, and training activities.
+DAIH contributes to the organization of a wide range of initiatives, including journal special issues, conferences, workshops, seminars, public events, and training activities.
 
 <!-- pages/events.md -->
 <div class="events">
