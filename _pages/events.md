@@ -5,7 +5,7 @@ permalink: /events/
 description: #A growing collection of your cool projects.
 nav: true
 nav_order: 4
-display_categories: [conferences, workshops, seminars, teaching & training]
+display_categories: [call for papers, conferences, workshops, seminars, teaching & training]
 horizontal: false
 ---
 
