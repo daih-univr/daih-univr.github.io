@@ -24,7 +24,7 @@ Our interest in the intersection of Artificial Intelligence and Digital Humaniti
 
 Furthermore, we explore the influence of Artificial Intelligence (AI) and Natural Language Processing (NLP) on diversity, equity, and inclusion, an area of growing importance in contemporary computer science and artificial intelligence research: 
 
-* on one hand, we aim to scrutinize the potential challenges that artificial intelligence techniques may introduce or exacerbate in terms of inclusion. This involves an examination of issues and social biases (such as those pertaining to gender, race, religion, or disabilities) present in computational models trained on massive datasets {% cite 2025ieeeAcc 2025clicitB 2025inf %}. 
+* on one hand, we aim to scrutinize the potential challenges that artificial intelligence techniques may introduce or exacerbate in terms of inclusion. This involves an examination of issues and social biases (such as those pertaining to gender, race, religion, or disabilities) present in computational models trained on massive datasets {% cite 2025ieeeAcc 2025clicitB 2025inf 2026tist %}. 
 * on the other hand, we seek the development, experimentation and implementation of concrete tools, methods, technologies, and computational models for automating tasks that foster inclusion and enhance [content accessibility]({% link _research/02_research_digtech.md %}).
 
 In connection with these topics, we are guest-editing a Special Issue titled *The Role of Artificial Intelligence for Diversity, Equity, and Inclusion*. The [call for papers](https://www.mdpi.com/journal/information/special_issues/Y7H8YYZDTV) is currently open, with a submission deadline of **October 31, 2026**.
