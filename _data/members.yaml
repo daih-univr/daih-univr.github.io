@@ -157,6 +157,11 @@ members:
   surname: Artoni
   website: 'https://www.dlls.univr.it/?ent=persona&id=9036'
 
+- affiliation: Department of Foreign Languages and Literatures, University of Verona
+  name: Stefan
+  surname: Rabanus
+  website: 'https://www.dlls.univr.it/?ent=persona&id=2660'  
+
 students (theses and interns):
 - period: 2025
   name: Letizia
