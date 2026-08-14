@@ -14,7 +14,7 @@ We are interested in the application of digital technologies to favour content a
 
 In the teaching context, 
 
-* we study and experiment proper methodologies to improve the accessibility of digital learning materials {% cite 2023moot %};
+* we study and experiment proper methodologies to improve the accessibility of digital learning materials {% cite 2023moot %}; we publish [practical guidelines](https://daih.eu/digital-material-accessibility/) to create accessible digital content;
 * we develop methodologies and tools (e.g., screen readers, coding by voice) to improve coding accessibility (e.g., [Python Code Reader](https://github.com/mattia2602/python-code-reader/blob/main/README-EN.md));
 * we contribute to AI4EDU, an internal project at the University of Verona led by the [Tecnologie Innovative per la Didattica](https://www.univr.it/en/our-services/-/servizi/tecnologie-innovative-per-la-didattica) group (IT and Communications Office), which carried out an exploratory study on the use of AI technologies within the University’s e-learning platform (Moodle).
 
