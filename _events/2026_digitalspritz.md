@@ -1,6 +1,6 @@
 ---
 layout: events
-title: Digital Spritz
+title: Digital Spritz (Spring Ed.)
 description: "Series of seminars on Digital Technologies and Digital Humanities"
 img: /assets/img/events/2026_digitalspritz.jpg
 imgalt: "Event poster of the series of seminars. It shows a 'digital' glass neon lights."
